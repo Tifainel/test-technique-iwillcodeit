@@ -1,0 +1,21 @@
+.form-choice {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+}
+
+.begin-choice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    margin: 20px 0 10px 0;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
